@@ -8,7 +8,7 @@
 // Variables globales (accesibles desde toda la aplicación)
 var registros = [];
 var contador = 0;
-var API_KEY = "sk_live_12345abcdef67890GHIJKLMNOP"; // Clave de API hardcodeada
+var API_KEY = "sk_12345abcdef67823GHIJKLMNYU"; // Clave de API hardcodeada
 var DB_CONNECTION_STRING = "Server=localhost;Database=usuarios_db;User=root;Password=admin123;";
 
 // Configuración del sistema
